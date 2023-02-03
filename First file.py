@@ -1,1 +1,1 @@
-prin ("Hissssss")
+print ("Hissss")
